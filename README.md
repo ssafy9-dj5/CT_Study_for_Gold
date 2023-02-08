@@ -47,7 +47,7 @@
 
 <a href="https://solved.ac/profile/imin3672"><img align="right" width="30%" src="http://mazandi.herokuapp.com/api?handle=imin3672&theme=warm"/></a>
 
-### 홍지민  <a href="https://github.com/ZIM-H"><img src="https://img.shields.io/badge/ZIM_H-181717?style=flat-square&logo=GitHub&logoColor=white"/></a><a href="https://soooom.tistory.com/"><img src="https://img.shields.io/badge/기록방-F7E600?style=flat-square&logo=Tistory&logoColor=black"/></a>  
+### 홍지민  <a href="https://github.com/ZIM-H"><img src="https://img.shields.io/badge/ZIM_H-181717?style=flat-square&logo=GitHub&logoColor=white"/></a><a href="https://hzim-dev.tistory.com/"><img src="https://img.shields.io/badge/기록방-F7E600?style=flat-square&logo=Tistory&logoColor=black"/></a>  
 
 <br>  
 
