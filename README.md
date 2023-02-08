@@ -26,7 +26,7 @@
 <a href="https://solved.ac/profile/daewha1021"><img align="right" width="30%" src="http://mazandi.herokuapp.com/api?handle=daewha1021&theme=warm"/></a>
 <a href="https://solved.ac/profile/okip0428"><img align="right" width="30%" src="http://mazandi.herokuapp.com/api?handle=okip0428&theme=warm"/></a>
 
-### 박대화  <a href="https://github.com/daehwa-park"><img src="https://img.shields.io/badge/daehwa park-181717?style=flat-square&logo=GitHub&logoColor=white"/></a><a href="https://soooom.tistory.com/"><img src="https://img.shields.io/badge/기록방-F7E600?style=flat-square&logo=Velog&logoColor=#20C997"/></a>  
+### 박대화  <a href="https://github.com/daehwa-park"><img src="https://img.shields.io/badge/daehwa park-181717?style=flat-square&logo=GitHub&logoColor=white"/></a><a href="https://soooom.tistory.com/"><img src="https://img.shields.io/badge/기록방-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>  
 
 <br>  
 
