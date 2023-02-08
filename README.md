@@ -12,70 +12,50 @@
 <br>
 
 ## ✋ Member
-<div style="width: 200px; margin-right: 20px; float: left">
+<a href="https://solved.ac/profile/kjwkjw1104"><img align="right" width="30%" src="http://mazandi.herokuapp.com/api?handle=kjwkjw1104&theme=warm"/></a>
+<a href="https://solved.ac/profile/kangsm423"><img align="right" width="30%" src="http://mazandi.herokuapp.com/api?handle=kangsm423&theme=warm"/></a>
+  
+### 강수민  <a href="https://github.com/BreathIN423"><img src="https://img.shields.io/badge/BreathIn423-181717?style=flat-square&logo=GitHub&logoColor=white"/></a><a href="https://soooom.tistory.com/"><img src="https://img.shields.io/badge/기록방-F7E600?style=flat-square&logo=Tistory&logoColor=black"/></a>  
 
-### 강수민
-<a href="https://github.com/BreathIN423"><img src="https://img.shields.io/badge/BreathIn423-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-<a href="https://soooom.tistory.com/"><img src="https://img.shields.io/badge/기록방-F7E600?style=flat-square&logo=Tistory&logoColor=black"/></a>  
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kangsm423)](https://solved.ac/kangsm423) <img src="http://mazandi.herokuapp.com/api?handle=kangsm423&theme=warm"/>
+<br>  
 
-</div>
+### 김재원  <a href="https://github.com/Kanaloa21"><img src="https://img.shields.io/badge/Kanaloa21-181717?style=flat-square&logo=GitHub&logoColor=white"/></a><a href="https://soooom.tistory.com/"><img src="https://img.shields.io/badge/기록방-F7E600?style=flat-square&logo=Tistory&logoColor=black"/></a>  
 
-<div style="width: 200px; margin-right: 20px; float: left">
+<br>  
 
-### 김재원
-<a href="https://github.com/Kanaloa21"><img src="https://img.shields.io/badge/Kanaloa21-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-<a href="https://soooom.tistory.com/"><img src="https://img.shields.io/badge/기록방-F7E600?style=flat-square&logo=Tistory&logoColor=black"/></a>  
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjwkjw1104)](https://solved.ac/kjwkjw1104) <img src="http://mazandi.herokuapp.com/api?handle=kjwkjw1104&theme=warm"/>
+<a href="https://solved.ac/profile/daewha1021"><img align="right" width="30%" src="http://mazandi.herokuapp.com/api?handle=daewha1021&theme=warm"/></a>
+<a href="https://solved.ac/profile/okip0428"><img align="right" width="30%" src="http://mazandi.herokuapp.com/api?handle=okip0428&theme=warm"/></a>
 
-</div>
+### 박대화  <a href="https://github.com/daehwa-park"><img src="https://img.shields.io/badge/daehwa park-181717?style=flat-square&logo=GitHub&logoColor=white"/></a><a href="https://soooom.tistory.com/"><img src="https://img.shields.io/badge/기록방-F7E600?style=flat-square&logo=Tistory&logoColor=black"/></a>  
 
-<div style="width: 200px; margin-right: 20px; float: left">
+<br>  
 
-### 박대화
-<a href="https://github.com/daehwa-park"><img src="https://img.shields.io/badge/daehwa park-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-<a href="https://soooom.tistory.com/"><img src="https://img.shields.io/badge/기록방-F7E600?style=flat-square&logo=Tistory&logoColor=black"/></a>  
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=daewha1021)](https://solved.ac/daewha1021) <img src="http://mazandi.herokuapp.com/api?handle=daewha1021&theme=warm"/>
+### 박영기  <a href="https://github.com/park-yeong-ki"><img src="https://img.shields.io/badge/park yeong ki-181717?style=flat-square&logo=GitHub&logoColor=white"/></a><a href="https://soooom.tistory.com/"><img src="https://img.shields.io/badge/기록방-F7E600?style=flat-square&logo=Tistory&logoColor=black"/></a>  
 
-</div>
+<br>  
 
-<div style="width: 200px; margin-right: 20px; float: left">
+<a href="https://solved.ac/profile/adh1120"><img align="right" width="30%" src="http://mazandi.herokuapp.com/api?handle=adh1120&theme=warm"/></a>
+<a href="https://solved.ac/profile/sylee"><img align="right" width="30%" src="http://mazandi.herokuapp.com/api?handle=sylee&theme=warm"/></a>
 
-### 박영기
-<a href="https://github.com/park-yeong-ki"><img src="https://img.shields.io/badge/park yeong ki-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-<a href="https://soooom.tistory.com/"><img src="https://img.shields.io/badge/기록방-F7E600?style=flat-square&logo=Tistory&logoColor=black"/></a>  
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=okip0428)](https://solved.ac/okip0428) <img src="http://mazandi.herokuapp.com/api?handle=okip0428&theme=warm"/>
+### 안도희  <a href="https://github.com/doheeahn"><img src="https://img.shields.io/badge/doheeahn-181717?style=flat-square&logo=GitHub&logoColor=white"/></a><a href="https://soooom.tistory.com/"><img src="https://img.shields.io/badge/기록방-F7E600?style=flat-square&logo=Tistory&logoColor=black"/></a>  
 
-</div>
+<br>  
 
-<div style="width: 200px; margin-right: 20px; float: left">
+### 이서연  <a href="https://github.com/sylee723"><img src="https://img.shields.io/badge/sylee723-181717?style=flat-square&logo=GitHub&logoColor=white"/></a><a href="https://soooom.tistory.com/"><img src="https://img.shields.io/badge/기록방-F7E600?style=flat-square&logo=Tistory&logoColor=black"/></a>  
 
-### 안도희
-<a href="https://github.com/doheeahn"><img src="https://img.shields.io/badge/doheeahn-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-<a href="https://soooom.tistory.com/"><img src="https://img.shields.io/badge/기록방-F7E600?style=flat-square&logo=Tistory&logoColor=black"/></a>  
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=adh1120)](https://solved.ac/adh1120) <img src="http://mazandi.herokuapp.com/api?handle=adh1120&theme=warm"/>
+<br>  
 
-</div>
+<a href="https://solved.ac/profile/imin3672"><img align="right" width="30%" src="http://mazandi.herokuapp.com/api?handle=imin3672&theme=warm"/></a>
 
-<div style="width: 200px; margin-right: 20px; float: left">
+### 홍지민  <a href="https://github.com/ZIM-H"><img src="https://img.shields.io/badge/ZIM_H-181717?style=flat-square&logo=GitHub&logoColor=white"/></a><a href="https://soooom.tistory.com/"><img src="https://img.shields.io/badge/기록방-F7E600?style=flat-square&logo=Tistory&logoColor=black"/></a>  
 
-### 이서연
-<a href="https://github.com/sylee723"><img src="https://img.shields.io/badge/sylee723-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-<a href="https://soooom.tistory.com/"><img src="https://img.shields.io/badge/기록방-F7E600?style=flat-square&logo=Tistory&logoColor=black"/></a>  
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sylee)](https://solved.ac/sylee) <img src="http://mazandi.herokuapp.com/api?handle=sylee&theme=warm"/>
+<br>  
 
-</div>
+   
+   
+<div style="clear:both;"></div>  
 
-<div style="width: 200px; margin-right: 20px; float: left">
-
-### 홍지민
-<a href="https://github.com/ZIM-H"><img src="https://img.shields.io/badge/ZIM_H-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-<a href="https://soooom.tistory.com/"><img src="https://img.shields.io/badge/기록방-F7E600?style=flat-square&logo=Tistory&logoColor=black"/></a>  
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=imin3672)](https://solved.ac/imin3672) <img src="http://mazandi.herokuapp.com/api?handle=imin3672&theme=warm"/>
-
-</div>
-<div style="clear:both;"></div>
-<br>
+<br>  
 
 ## 🚨 규칙
 >
