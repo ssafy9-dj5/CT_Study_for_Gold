@@ -3,8 +3,8 @@
 > 
 > <img src="https://img.shields.io/badge/Github for Code Review-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 > <img src="https://img.shields.io/badge/JAVA-FF8000?style=flat-square"/>
-> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse IDE"/>
-> <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ IDEA"/>
+> <img src="https://img.shields.io/badge/Eclipse-5858FA?style=flat-square&logo=Eclipse IDE"/>
+> <img src="https://img.shields.io/badge/IntelliJ-FE2E64?style=flat-square&logo=IntelliJ IDEA"/>
 > <img src="https://img.shields.io/badge/Notion-333?style=flat-square&logo=Notion"/>
 > <img src="https://img.shields.io/badge/Solved.AC-17ce3a?style=flat-square"/>
 > <img src="https://img.shields.io/badge/SSAFY-00BFFF?style=flat-square"/>
