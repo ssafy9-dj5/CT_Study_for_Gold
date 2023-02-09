@@ -41,7 +41,7 @@
 
 <br>  
 
-### 이서연  <a href="https://github.com/sylee723"><img src="https://img.shields.io/badge/sylee723-181717?style=flat-square&logo=GitHub&logoColor=white"/></a><a href="https://soooom.tistory.com/"><img src="https://img.shields.io/badge/기록방-F7E600?style=flat-square&logo=Tistory&logoColor=black"/></a>  
+### 이서연  <a href="https://github.com/sylee723"><img src="https://img.shields.io/badge/sylee723-181717?style=flat-square&logo=GitHub&logoColor=white"/></a><a href="https://croquis.tistory.com/"><img src="https://img.shields.io/badge/기록방-F7E600?style=flat-square&logo=Tistory&logoColor=black"/></a>  
 
 <br>  
 
