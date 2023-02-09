@@ -37,7 +37,7 @@
 <a href="https://solved.ac/profile/adh1120"><img align="right" width="30%" src="http://mazandi.herokuapp.com/api?handle=adh1120&theme=warm"/></a>
 <a href="https://solved.ac/profile/sylee"><img align="right" width="30%" src="http://mazandi.herokuapp.com/api?handle=sylee&theme=warm"/></a>
 
-### 안도희  <a href="https://github.com/doheeahn"><img src="https://img.shields.io/badge/doheeahn-181717?style=flat-square&logo=GitHub&logoColor=white"/></a><a href="https://soooom.tistory.com/"><img src="https://img.shields.io/badge/기록방-F7E600?style=flat-square&logo=Tistory&logoColor=black"/></a>  
+### 안도희  <a href="https://github.com/doheeahn"><img src="https://img.shields.io/badge/doheeahn-181717?style=flat-square&logo=GitHub&logoColor=white"/></a><a href="https://adh1120.tistory.com/"><img src="https://img.shields.io/badge/기록방-F7E600?style=flat-square&logo=Tistory&logoColor=black"/></a>  
 
 <br>  
 
