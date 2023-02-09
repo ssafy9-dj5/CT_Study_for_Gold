@@ -3,8 +3,8 @@
 > 
 > <img src="https://img.shields.io/badge/Github for Code Review-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 > <img src="https://img.shields.io/badge/JAVA-FF8000?style=flat-square"/>
-> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse IDE"/>
-> <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ IDEA"/>
+> <img src="https://img.shields.io/badge/Eclipse-5858FA?style=flat-square&logo=Eclipse IDE"/>
+> <img src="https://img.shields.io/badge/IntelliJ-FE2E64?style=flat-square&logo=IntelliJ IDEA"/>
 > <img src="https://img.shields.io/badge/Notion-333?style=flat-square&logo=Notion"/>
 > <img src="https://img.shields.io/badge/Solved.AC-17ce3a?style=flat-square"/>
 > <img src="https://img.shields.io/badge/SSAFY-00BFFF?style=flat-square"/>
@@ -26,7 +26,7 @@
 <a href="https://solved.ac/profile/daewha1021"><img align="right" width="30%" src="http://mazandi.herokuapp.com/api?handle=daewha1021&theme=warm"/></a>
 <a href="https://solved.ac/profile/okip0428"><img align="right" width="30%" src="http://mazandi.herokuapp.com/api?handle=okip0428&theme=warm"/></a>
 
-### 박대화  <a href="https://github.com/daehwa-park"><img src="https://img.shields.io/badge/daehwa park-181717?style=flat-square&logo=GitHub&logoColor=white"/></a><a href="https://soooom.tistory.com/"><img src="https://img.shields.io/badge/기록방-F7E600?style=flat-square&logo=Tistory&logoColor=black"/></a>  
+### 박대화  <a href="https://github.com/daehwa-park"><img src="https://img.shields.io/badge/daehwa park-181717?style=flat-square&logo=GitHub&logoColor=white"/></a><a href="https://velog.io/@mantaray/"><img src="https://img.shields.io/badge/Mantaray.log-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>  
 
 <br>  
 
@@ -37,17 +37,17 @@
 <a href="https://solved.ac/profile/adh1120"><img align="right" width="30%" src="http://mazandi.herokuapp.com/api?handle=adh1120&theme=warm"/></a>
 <a href="https://solved.ac/profile/sylee"><img align="right" width="30%" src="http://mazandi.herokuapp.com/api?handle=sylee&theme=warm"/></a>
 
-### 안도희  <a href="https://github.com/doheeahn"><img src="https://img.shields.io/badge/doheeahn-181717?style=flat-square&logo=GitHub&logoColor=white"/></a><a href="https://soooom.tistory.com/"><img src="https://img.shields.io/badge/기록방-F7E600?style=flat-square&logo=Tistory&logoColor=black"/></a>  
+### 안도희  <a href="https://github.com/doheeahn"><img src="https://img.shields.io/badge/doheeahn-181717?style=flat-square&logo=GitHub&logoColor=white"/></a><a href="https://adh1120.tistory.com/"><img src="https://img.shields.io/badge/기록방-F7E600?style=flat-square&logo=Tistory&logoColor=black"/></a>  
 
 <br>  
 
-### 이서연  <a href="https://github.com/sylee723"><img src="https://img.shields.io/badge/sylee723-181717?style=flat-square&logo=GitHub&logoColor=white"/></a><a href="https://soooom.tistory.com/"><img src="https://img.shields.io/badge/기록방-F7E600?style=flat-square&logo=Tistory&logoColor=black"/></a>  
+### 이서연  <a href="https://github.com/sylee723"><img src="https://img.shields.io/badge/sylee723-181717?style=flat-square&logo=GitHub&logoColor=white"/></a><a href="https://croquis.tistory.com/"><img src="https://img.shields.io/badge/기록방-F7E600?style=flat-square&logo=Tistory&logoColor=black"/></a>  
 
 <br>  
 
 <a href="https://solved.ac/profile/imin3672"><img align="right" width="30%" src="http://mazandi.herokuapp.com/api?handle=imin3672&theme=warm"/></a>
 
-### 홍지민  <a href="https://github.com/ZIM-H"><img src="https://img.shields.io/badge/ZIM_H-181717?style=flat-square&logo=GitHub&logoColor=white"/></a><a href="https://soooom.tistory.com/"><img src="https://img.shields.io/badge/기록방-F7E600?style=flat-square&logo=Tistory&logoColor=black"/></a>  
+### 홍지민  <a href="https://github.com/ZIM-H"><img src="https://img.shields.io/badge/ZIM_H-181717?style=flat-square&logo=GitHub&logoColor=white"/></a><a href="https://hzim-dev.tistory.com/"><img src="https://img.shields.io/badge/Hzim dev-F7E600?style=flat-square&logo=Tistory&logoColor=black"/></a>  
 
 <br>  
 
@@ -68,6 +68,8 @@
 > - **일요일 21:00 온라인 스터디**
 >   - 2문제 풀이 발표 (각자의 풀이 비교 + 색다른 풀이 소개)
 >   - 다음주 문제 및 발표자 선정
+>   - 이번주 breanch들 merge
+>   - 다음주 문제 풀이 용 breanch 생성
 > - **과제 미흡 시 벌금 5,000원**
 
 <br>
