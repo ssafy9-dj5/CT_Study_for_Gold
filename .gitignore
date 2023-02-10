@@ -1,5 +1,5 @@
-# Created by https://www.toptal.com/developers/gitignore/api/eclipse,intellij,java
-# Edit at https://www.toptal.com/developers/gitignore?templates=eclipse,intellij,java
+# Created by https://www.toptal.com/developers/gitignore/api/java,intellij,eclipse
+# Edit at https://www.toptal.com/developers/gitignore?templates=java,intellij,eclipse
 
 ### Eclipse ###
 .metadata
@@ -206,4 +206,4 @@ fabric.properties
 hs_err_pid*
 replay_pid*
 
-# End of https://www.toptal.com/developers/gitignore/api/eclipse,intellij,java
+# End of https://www.toptal.com/developers/gitignore/api/java,intellij,eclipse
