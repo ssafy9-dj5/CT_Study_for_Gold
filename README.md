@@ -76,11 +76,11 @@
 
 ## 🍀 기록
 ### 1회차 (23.02.06 ~ 23.02.12)
-
-- 문제 링크 1
-- 문제 링크 2 
-- 문제 링크 3 
-- 문제 링크 4
+- [백준 연습란](https://www.acmicpc.net/group/practice/view/16554/3)
+  - [BOJ 2312 수 복원하기](https://www.acmicpc.net/problem/2312)
+  - [BOJ 7507 올림픽 게임](https://www.acmicpc.net/problem/7507)
+  - [BOJ 1992 쿼드트리](https://www.acmicpc.net/problem/1992)
+  - [BOJ 1954 화학실험](https://www.acmicpc.net/problem/1954)
 - 회의록 (Notion 페이지 링크)
 
 ### 2회차
