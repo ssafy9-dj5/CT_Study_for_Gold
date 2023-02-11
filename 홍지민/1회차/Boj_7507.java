@@ -27,7 +27,7 @@ public class Boj_7507 {
 
 
             //0번째 인덱스 기준 정렬, 1번째 인덱스 기준 정렬, 2번째 인덱스 기준 정렬
-            // 끝나는 시간이 빠를수록 더 많은 경기를 볼 수 있기 문문
+            // 끝나는 시간이 빠를수록 더 많은 경기를 볼 수 있기 때문
             Arrays.sort(game, new Comparator<int[]>() {
                 @Override
                 public int compare(int[] o1, int[] o2) {
