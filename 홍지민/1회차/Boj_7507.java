@@ -1,3 +1,4 @@
+// 문제를 못풀어서 다른 분들 풀이 참고해서 다시 풀어보도록 하겠습니다!!
 package week1;
 
 import java.io.BufferedReader;
@@ -37,7 +38,7 @@ public class Boj_7507 {
             int cnt = 1;
             int idx =0;
             for(int i=0; i<n; i++){
-               if(game[idx][0] == game[i][0] && game[idx][2] <= game[i][1]){
+               if(game[idx][0] == game[i][0] && game[idx][2] <= game[i][1]){ // 날짜가 같은 경우만 진행, start 시간이 end보다 작거나 같으면 다음 진행 
                    cnt++;
                    idx = i;
                }
