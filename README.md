@@ -76,12 +76,14 @@
   - [BOJ 7507 올림픽 게임](https://www.acmicpc.net/problem/7507)
   - [BOJ 1992 쿼드트리](https://www.acmicpc.net/problem/1992)
   - [BOJ 1954 화학실험](https://www.acmicpc.net/problem/1954)
-- 회의록 (Notion 페이지 링크)
+- [노션 회의록](https://breathin423.notion.site/c8e748dc75c04e3680cf84757a58451a)
 
-### 2회차
+### 2회차 (23.02.13 ~ 23.02.19)
 
-- 문제 링크 1
-- 문제 링크 2
-- 문제 링크 3
-- 문제 링크 4
-- 회의록 (Notion 페이지 링크)
+- [백준 연습란](https://www.acmicpc.net/group/practice/view/16554/4)
+  - [BOJ 19621 회의실 배정 2](https://www.acmicpc.net/problem/19621)
+  - [BOJ 14888 연산자 끼워넣기](https://www.acmicpc.net/problem/14888)
+  - [BOJ 12865 평범한 배낭](https://www.acmicpc.net/problem/12865)
+  - [BOJ 17281 ⚾](https://www.acmicpc.net/problem/17281)
+- [노션 회의록](https://breathin423.notion.site/2-8df5d91ccfa54cb1becb71036bf2fbb0)
+
