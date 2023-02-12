@@ -1,5 +1,6 @@
 package week1;
 
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -8,17 +9,14 @@ import java.util.Comparator;
 import java.util.StringTokenizer;
 
 public class Main_7507 {
-	static int[][] time;
-	static int n;
-	static int max;
 
 	public static void main(String[] args) throws NumberFormatException, IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		int tc = Integer.parseInt(br.readLine());
 		for (int i = 0; i < tc; i++) {
-			max = 0;
-			n = Integer.parseInt(br.readLine());
-			time = new int[n][3];
+			int max = 1;
+			int n = Integer.parseInt(br.readLine());
+			int[][] time = new int[n][3];
 			for (int j = 0; j < n; j++) {
 				StringTokenizer st = new StringTokenizer(br.readLine());
 				for (int k = 0; k < 3; k++) {
@@ -34,32 +32,24 @@ public class Main_7507 {
 				}
 			});
 
-			com(0, 1);
-			System.out.println("Scenario #" + (i + 1));
-			System.out.println(max);
-		}
-
-	}
-
-	private static void com(int s, int r) {// 내가 고른 경기, 경기 몇개 골랐는지
-
-		for (int i = s + 1; i < n; i++) {
-			if (time[s][0] == time[i][0]) {
-				if (time[s][2] <= time[i][1]) {
-					if (i == n - 1 && max <=r) {
-						max = r+1;
-					} else
-						com(i, r+1);
+			
+			int s=0;
+			for(int j=s;j<n;j++) {
+				if(time[s][0]!=time[j][0]||time[s][2]<=time[j][1]) {
+					max++;
+					s=j;
 				}
-			} else {//날짜가 다르다면
-				if (i == n - 1 && max <=r)
-					max = r+1;
-				else
-					com(i, r+1);
-
+				else {
+					if(time[s][2]>time[j][2])
+						s=j;
+				}
 			}
-
+			System.out.println("Scenario #" + (i + 1)+":");
+			System.out.println(max);
+			System.out.println();
 		}
-	}
+		
+		
 
+	}
 }
