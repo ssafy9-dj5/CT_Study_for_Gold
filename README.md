@@ -24,13 +24,14 @@
 <br>  
 
 <a href="https://solved.ac/profile/daewha1021"><img align="right" width="30%" src="http://mazandi.herokuapp.com/api?handle=daewha1021&theme=warm"/></a>
-<a href="https://solved.ac/profile/okip0428"><img align="right" width="30%" src="http://mazandi.herokuapp.com/api?handle=okip0428&theme=warm"/></a>
+<a href="https://solved.ac/profile/imin3672"><img align="right" width="30%" src="http://mazandi.herokuapp.com/api?handle=imin3672&theme=warm"/></a>
 
 ### 박대화  <a href="https://github.com/daehwa-park"><img src="https://img.shields.io/badge/daehwa park-181717?style=flat-square&logo=GitHub&logoColor=white"/></a><a href="https://velog.io/@mantaray/"><img src="https://img.shields.io/badge/Mantaray.log-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>  
 
 <br>  
 
-### 박영기  <a href="https://github.com/park-yeong-ki"><img src="https://img.shields.io/badge/park yeong ki-181717?style=flat-square&logo=GitHub&logoColor=white"/></a><a href="https://soooom.tistory.com/"><img src="https://img.shields.io/badge/기록방-F7E600?style=flat-square&logo=Tistory&logoColor=black"/></a>  
+### 홍지민  <a href="https://github.com/ZIM-H"><img src="https://img.shields.io/badge/ZIM_H-181717?style=flat-square&logo=GitHub&logoColor=white"/></a><a href="https://hzim-dev.tistory.com/"><img src="https://img.shields.io/badge/Hzim dev-F7E600?style=flat-square&logo=Tistory&logoColor=black"/></a>  
+
 
 <br>  
 
@@ -43,15 +44,9 @@
 
 ### 이서연  <a href="https://github.com/sylee723"><img src="https://img.shields.io/badge/sylee723-181717?style=flat-square&logo=GitHub&logoColor=white"/></a><a href="https://croquis.tistory.com/"><img src="https://img.shields.io/badge/기록방-F7E600?style=flat-square&logo=Tistory&logoColor=black"/></a>  
 
-<br>  
-
-<a href="https://solved.ac/profile/imin3672"><img align="right" width="30%" src="http://mazandi.herokuapp.com/api?handle=imin3672&theme=warm"/></a>
-
-### 홍지민  <a href="https://github.com/ZIM-H"><img src="https://img.shields.io/badge/ZIM_H-181717?style=flat-square&logo=GitHub&logoColor=white"/></a><a href="https://hzim-dev.tistory.com/"><img src="https://img.shields.io/badge/Hzim dev-F7E600?style=flat-square&logo=Tistory&logoColor=black"/></a>  
 
 <br>  
 
-   
    
 <div style="clear:both;"></div>  
 
