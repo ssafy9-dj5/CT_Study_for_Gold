@@ -6,7 +6,7 @@
 - [4번 문제 포스팅 링크](https://soooom.tistory.com/entry/BOJ1954-%ED%99%94%ED%95%99%EC%8B%A4%ED%97%98)
 
 ## [2회차 (23.02.13 ~ 23.02.19)](PR링크를 넣으세요)
-- 1번 문제 포스팅 링크
-- 2번 문제 포스팅 링크
-- 3번 문제 포스팅 링크
-- 4번 문제 포스팅 링크
+- [1번 문제 포스팅 링크](https://soooom.tistory.com/entry/BOJ19621-%ED%9A%8C%EC%9D%98%EC%8B%A4-%EB%B0%B0%EC%A0%95-2)
+- [2번 문제 포스팅 링크](https://soooom.tistory.com/entry/BOJ14888-%EC%97%B0%EC%82%B0%EC%9E%90-%EB%81%BC%EC%9B%8C%EB%84%A3%EA%B8%B0)
+- [3번 문제 포스팅 링크](https://soooom.tistory.com/entry/BOJ12865-%ED%8F%89%EB%B2%94%ED%95%9C-%EB%B0%B0%EB%82%AD)
+- [4번 문제 포스팅 링크](https://soooom.tistory.com/entry/BOJ17281-%E2%9A%BE)
