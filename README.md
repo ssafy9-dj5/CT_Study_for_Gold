@@ -1,5 +1,5 @@
 # 🔥 CT_Study_for_Gold 🔥
-> ***백준 골드 도전기***  
+> ***Team 골드 승격전 : 백준 골드 도전기***  
 > 
 > <img src="https://img.shields.io/badge/Github for Code Review-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 > <img src="https://img.shields.io/badge/JAVA-FF8000?style=flat-square"/>
@@ -7,7 +7,9 @@
 > <img src="https://img.shields.io/badge/IntelliJ-FE2E64?style=flat-square&logo=IntelliJ IDEA"/>
 > <img src="https://img.shields.io/badge/Notion-333?style=flat-square&logo=Notion"/>
 > <img src="https://img.shields.io/badge/Solved.AC-17ce3a?style=flat-square"/>
-> <img src="https://img.shields.io/badge/SSAFY-00BFFF?style=flat-square"/>
+> <img src="https://img.shields.io/badge/SSAFY-00BFFF?style=flat-square"/>  
+> 
+> [*스터디 노션*](https://breathin423.notion.site/c8e748dc75c04e3680cf84757a58451a)
 
 <br>
 
@@ -85,5 +87,13 @@
   - [BOJ 14888 연산자 끼워넣기](https://www.acmicpc.net/problem/14888)
   - [BOJ 12865 평범한 배낭](https://www.acmicpc.net/problem/12865)
   - [BOJ 17281 ⚾](https://www.acmicpc.net/problem/17281)
-- [노션 회의록](https://breathin423.notion.site/2-8df5d91ccfa54cb1becb71036bf2fbb0)
+- [노션 회의록](https://breathin423.notion.site/2-8df5d91ccfa54cb1becb71036bf2fbb0)  
 
+### 3회차 (23.02.20 ~ 23.02.26)
+
+- [백준 연습란](https://www.acmicpc.net/group/practice/view/16554/5)
+  - [BOJ 4963 섬의 개수](https://www.acmicpc.net/problem/4963)
+  - [BOJ 1926 그림](https://www.acmicpc.net/problem/1926)
+  - [BOJ 1068 트리](https://www.acmicpc.net/problem/1068)
+  - [BOJ 17144 미세먼지 안녕!](https://www.acmicpc.net/problem/17144)
+- [노션 회의록](https://breathin423.notion.site/3-4a6a2f9633724d6d921369707ee6e0ae)
