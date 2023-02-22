@@ -24,13 +24,14 @@
 <br>  
 
 <a href="https://solved.ac/profile/daewha1021"><img align="right" width="30%" src="http://mazandi.herokuapp.com/api?handle=daewha1021&theme=warm"/></a>
-<a href="https://solved.ac/profile/okip0428"><img align="right" width="30%" src="http://mazandi.herokuapp.com/api?handle=okip0428&theme=warm"/></a>
+<a href="https://solved.ac/profile/imin3672"><img align="right" width="30%" src="http://mazandi.herokuapp.com/api?handle=imin3672&theme=warm"/></a>
 
 ### 박대화  <a href="https://github.com/daehwa-park"><img src="https://img.shields.io/badge/daehwa park-181717?style=flat-square&logo=GitHub&logoColor=white"/></a><a href="https://velog.io/@mantaray/"><img src="https://img.shields.io/badge/Mantaray.log-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>  
 
 <br>  
 
-### 박영기  <a href="https://github.com/park-yeong-ki"><img src="https://img.shields.io/badge/park yeong ki-181717?style=flat-square&logo=GitHub&logoColor=white"/></a><a href="https://soooom.tistory.com/"><img src="https://img.shields.io/badge/기록방-F7E600?style=flat-square&logo=Tistory&logoColor=black"/></a>  
+### 홍지민  <a href="https://github.com/ZIM-H"><img src="https://img.shields.io/badge/ZIM_H-181717?style=flat-square&logo=GitHub&logoColor=white"/></a><a href="https://hzim-dev.tistory.com/"><img src="https://img.shields.io/badge/Hzim dev-F7E600?style=flat-square&logo=Tistory&logoColor=black"/></a>  
+
 
 <br>  
 
@@ -43,15 +44,9 @@
 
 ### 이서연  <a href="https://github.com/sylee723"><img src="https://img.shields.io/badge/sylee723-181717?style=flat-square&logo=GitHub&logoColor=white"/></a><a href="https://croquis.tistory.com/"><img src="https://img.shields.io/badge/기록방-F7E600?style=flat-square&logo=Tistory&logoColor=black"/></a>  
 
-<br>  
-
-<a href="https://solved.ac/profile/imin3672"><img align="right" width="30%" src="http://mazandi.herokuapp.com/api?handle=imin3672&theme=warm"/></a>
-
-### 홍지민  <a href="https://github.com/ZIM-H"><img src="https://img.shields.io/badge/ZIM_H-181717?style=flat-square&logo=GitHub&logoColor=white"/></a><a href="https://hzim-dev.tistory.com/"><img src="https://img.shields.io/badge/Hzim dev-F7E600?style=flat-square&logo=Tistory&logoColor=black"/></a>  
 
 <br>  
 
-   
    
 <div style="clear:both;"></div>  
 
@@ -81,12 +76,14 @@
   - [BOJ 7507 올림픽 게임](https://www.acmicpc.net/problem/7507)
   - [BOJ 1992 쿼드트리](https://www.acmicpc.net/problem/1992)
   - [BOJ 1954 화학실험](https://www.acmicpc.net/problem/1954)
-- 회의록 (Notion 페이지 링크)
+- [노션 회의록](https://breathin423.notion.site/c8e748dc75c04e3680cf84757a58451a)
 
-### 2회차
+### 2회차 (23.02.13 ~ 23.02.19)
 
-- 문제 링크 1
-- 문제 링크 2
-- 문제 링크 3
-- 문제 링크 4
-- 회의록 (Notion 페이지 링크)
+- [백준 연습란](https://www.acmicpc.net/group/practice/view/16554/4)
+  - [BOJ 19621 회의실 배정 2](https://www.acmicpc.net/problem/19621)
+  - [BOJ 14888 연산자 끼워넣기](https://www.acmicpc.net/problem/14888)
+  - [BOJ 12865 평범한 배낭](https://www.acmicpc.net/problem/12865)
+  - [BOJ 17281 ⚾](https://www.acmicpc.net/problem/17281)
+- [노션 회의록](https://breathin423.notion.site/2-8df5d91ccfa54cb1becb71036bf2fbb0)
+
