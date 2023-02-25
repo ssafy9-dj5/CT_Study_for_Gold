@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
-public class Main17144¹Ì¼¼¸ÕÁö¾È³ç {
+public class Main17144ë¯¸ì„¸ë¨¼ì§€ì•ˆë…• {
 	static int r;
 	static int c;
 	static int[] m;
@@ -18,7 +18,7 @@ public class Main17144¹Ì¼¼¸ÕÁö¾È³ç {
 		r = Integer.parseInt(st.nextToken());
 		c = Integer.parseInt(st.nextToken());
 		int t = Integer.parseInt(st.nextToken());
-		m = new int[2];// °ø±â Ã»Á¤±â row °ª
+		m = new int[2];// ê³µê¸° ì²­ì •ê¸° row ê°’
 		int mcnt = 0;
 		int result=0;
 
@@ -28,7 +28,7 @@ public class Main17144¹Ì¼¼¸ÕÁö¾È³ç {
 			st = new StringTokenizer(br.readLine());
 			for (int j = 0; j < c; j++) {
 				arr[i][j] = Integer.parseInt(st.nextToken());
-				if (arr[i][j] == -1) {// °ø±âÃ»Á¤±â
+				if (arr[i][j] == -1) {// ê³µê¸°ì²­ì •ê¸°
 					m[mcnt] = i;
 					mcnt++;
 				}
@@ -39,13 +39,13 @@ public class Main17144¹Ì¼¼¸ÕÁö¾È³ç {
 		for (int tc = 0; tc < t; tc++) {
 			for (int i = 0; i < r; i++) {
 				for (int j = 0; j < c; j++) {
-					if (arr[i][j] != 0 && arr[i][j] != -1) // È®»ê
+					if (arr[i][j] != 0 && arr[i][j] != -1) // í™•ì‚°
 						sp(i, j);
 				}
 			}
 
-			on();// °ø±âÃ»Á¤±â ÀÛµ¿
-			// tc1È¸ ³¡
+			on();// ê³µê¸°ì²­ì •ê¸° ìž‘ë™
+			// tc1íšŒ ë
 			for (int i = 0; i < r; i++) {
 				arr[i] = Arrays.copyOf(copy[i], copy[i].length);
 			}
@@ -63,9 +63,9 @@ public class Main17144¹Ì¼¼¸ÕÁö¾È³ç {
 	private static void on() {
 
 		for (int t = 0; t < 2; t++) {
-			int mr = m[t];// °ø±âÃ»Á¤±â Çà°ª
+			int mr = m[t];// ê³µê¸°ì²­ì •ê¸° rowê°’
 
-			if (t == 0) {// ¹Ý½Ã°è ¹æÇâ
+			if (t == 0) {// ë°˜ì‹œê³„ ë°©í–¥
 				int[] di = { -1, 0, 1, 0 };
 				int[] dj = { 0, 1, 0, -1 };
 				int i = mr - 1;
@@ -87,7 +87,7 @@ public class Main17144¹Ì¼¼¸ÕÁö¾È³ç {
 
 			}
 
-			else {// ½Ã°è¹æÇâ
+			else {// ì‹œê³„ë°©í–¥
 				int[] di = { 1, 0, -1, 0 };
 				int[] dj = { 0, 1, 0, -1 };
 				int i = mr + 1;
@@ -115,8 +115,8 @@ public class Main17144¹Ì¼¼¸ÕÁö¾È³ç {
 	private static void sp(int i, int j) {
 		int[] di = { -1, 0, 1, 0 };
 		int[] dj = { 0, 1, 0, -1 };
-		int s = arr[i][j] / 5;// È®»êµÉ ¹Ì¼¼¸ÕÁö
-		int n = 0;// ¸î°³ ¹æÇâÀ¸·Î È®»ê µÇ¾ú´ÂÁö
+		int s = arr[i][j] / 5;// í™•ì‚°ë  ë¯¸ì„¸ë¨¼ì§€
+		int n = 0;// ëª‡ê°œ ë°©í–¥ìœ¼ë¡œ í™•ì‚° ë˜ì—ˆëŠ”ì§€
 
 		for (int d = 0; d < 4; d++) {
 			int rd = i + di[d];
