@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
-public class Main1068Æ®¸® {
+public class Main1068íŠ¸ë¦¬ {
 	static int n;
 	static int[] arr;
 	static boolean[] isdel;
@@ -26,10 +26,10 @@ public class Main1068Æ®¸® {
 		del(d);
 		
 		for(int i=0;i<n;i++) {
-			if(!isdel[i]) {//»èÁ¦ ¾ÈµÈ°Å Áß¿¡
+			if(!isdel[i]) {//ì‚­ì œ ì•ˆëœê±° ì¤‘ì—
 				for(int j=0;j<n;j++) {
 					if(arr[j]==i&&(!isdel[j])) break;
-					if(j==n-1) cnt++; //ÀÚ½ÅÀÇ ºÎ¸ð·Î °®´Â °æ¿ì°¡ ¾øÀ½
+					if(j==n-1) cnt++; //ìžì‹ ì„ ë¶€ëª¨ë¡œ ê°–ëŠ” ê²½ìš°ê°€ ì—†ìŒ
 					
 					
 					
@@ -38,7 +38,7 @@ public class Main1068Æ®¸® {
 		}
 		System.out.println(cnt);
 	}
-	private static void del(int d) {//»èÁ¦ÇÏ¸é  true
+	private static void del(int d) {//ì‚­ì œí•˜ë©´  true
 		isdel[d]=true;
 		for(int i=0;i<n;i++) {
 			if(arr[i]==d) {
