@@ -10,3 +10,9 @@
 - [연산자 끼워넣기](https://velog.io/@mantaray/%EB%B0%B1%EC%A4%80-java-%EC%97%B0%EC%82%B0%EC%9E%90-%EB%81%BC%EC%9B%8C%EB%84%A3%EA%B8%B0-14888)
 - 평범한 배낭
 - [⚾](https://velog.io/@mantaray/%EB%B0%B1%EC%A4%80-java-17281)
+
+## [3회차 (23.02.20 ~ 23.02.26)](https://github.com/ssafy9-dj5/CT_Study_for_Gold/pull/16)
+- [섬의 개수](https://velog.io/@mantaray/%EB%B0%B1%EC%A4%80-java-%EC%84%AC%EC%9D%98-%EA%B0%9C%EC%88%98-4963)
+- [그림](https://velog.io/@mantaray/%EB%B0%B1%EC%A4%80-java-%EA%B7%B8%EB%A6%BC-1926)
+- [트리](https://velog.io/@mantaray/%EB%B0%B1%EC%A4%80-java-%ED%8A%B8%EB%A6%AC-1068)
+- [미세먼지 안녕!](https://velog.io/@mantaray/%EB%B0%B1%EC%A4%80-java-%EB%AF%B8%EC%84%B8%EB%A8%BC%EC%A7%80-%EC%95%88%EB%85%95-17144)
