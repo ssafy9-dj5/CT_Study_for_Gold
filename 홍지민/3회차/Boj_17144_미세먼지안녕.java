@@ -1,4 +1,4 @@
-//테스트케이스는 다 맞는데 왜 틀렸습니다인지 모르겠어요 ㅜ^ㅜ
+//성공완료 !_!
 package day0226;
 
 import java.util.Scanner;
@@ -67,12 +67,13 @@ public class Boj_17144_미세먼지안녕 {
                         map[i][p] = map[i][p - 1];
                     }
                     map[i][1] = 0;
+                    break;
                 }
-                break;
+                
             }
 
             int down = top + 1;
-            for (int p = 1; p <= down - 1; p++) {
+            for (int p = 1; p <= r - down - 1; p++) {
                 map[down + p][0] = map[down + p + 1][0];
             }
             for (int p = 0; p < c - 1; p++) {
