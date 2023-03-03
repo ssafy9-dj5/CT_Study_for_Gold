@@ -6,8 +6,8 @@ import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
-public class Main14502¿¬±¸¼Ò {
-	static class wall { //º® À§Ä¡
+public class Main14502ì—°êµ¬ì†Œ {
+	static class wall { //ë²½ ìœ„ì¹˜
 		int i, j;
 
 		public wall(int i, int j) {
@@ -17,7 +17,7 @@ public class Main14502¿¬±¸¼Ò {
 		}
 	}
 
-	static wall[] w = new wall[3];// º® Á¶ÇÕ
+	static wall[] w = new wall[3];// ë²½ ì¡°í•©
 	static int n, m;
 	static int[][] arr,copy;
 	static int max =0;
@@ -43,7 +43,7 @@ public class Main14502¿¬±¸¼Ò {
 
 	private static void comb(int cnt, int i, int j) {
 
-		if (cnt == 3) {//3°³ º® Á¶ÇÕ ¸¸µé±â
+		if (cnt == 3) {//3ê°œ ë²½ ì¡°í•© ë§Œë“¤ê¸°
 			for(int k=0;k<n;k++)
 				copy[k] = Arrays.copyOf(arr[k], arr[k].length);
 			virus();
@@ -67,13 +67,13 @@ public class Main14502¿¬±¸¼Ò {
 	}
 
 	private static void virus() {
-		for(int i=0;i<3;i++) {//º®¼¼¿ì±â
+		for(int i=0;i<3;i++) {//ë²½ì„¸ìš°ê¸°
 			int r = w[i].i;
 			int c=w[i].j;
 			copy[r][c] =1;
 		}
 		
-		for(int i=0;i<n;i++) {//¹ÙÀÌ·¯½º ÆÛÁö±â
+		for(int i=0;i<n;i++) {//ë°”ì´ëŸ¬ìŠ¤ í¼ì§€ê¸°
 			for(int j=0;j<m;j++) {
 				if(copy[i][j]==2)
 					dfs(i,j);
@@ -93,7 +93,7 @@ public class Main14502¿¬±¸¼Ò {
 
 
 	private static void dfs(int i, int j) {
-		copy[i][j]=3;//¹æ¹®ÇÑ ¹ÙÀÌ·¯½º´Â 3
+		copy[i][j]=3;//ë°©ë¬¸í•œ ë°”ì´ëŸ¬ìŠ¤ 3ìœ¼ë¡œ ì²´í¬
 		int[] di = {-1,0,1,0};
 		int[] dj = {0,1,0,-1};
 		
