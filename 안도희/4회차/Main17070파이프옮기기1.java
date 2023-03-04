@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class Main17070ÆÄÀÌÇÁ¿Å±â±â1 {
+public class Main17070íŒŒì´í”„ì˜®ê¸°ê¸°1 {
 	static int n;
 	static int[][] arr;
 	static int cnt;
@@ -26,24 +26,24 @@ public class Main17070ÆÄÀÌÇÁ¿Å±â±â1 {
 		System.out.println(cnt);
 	}
 
-	private static void pipe(int i, int j, int p) {// ³¡ ÀÎµ¦½º, ÇüÅÂ °¡·Î1,¼¼·Î2,´ë°¢¼±3
-		if (i == n && j == n) {//(n,n) µµÂø
+	private static void pipe(int i, int j, int p) {// íŒŒì´í”„ ì¸ë±ìŠ¤, í˜•íƒœ ê°€ë¡œ1,ì„¸ë¡œ2,ëŒ€ê°ì„ 3
+		if (i == n && j == n) {//(n,n) ë„ì°©
 			cnt++;
 			return;
 		}
-		for (int d = 1; d <= 3; d++) { // °¡·Î,¼¼·Î,´ë°¢¼±
+		for (int d = 1; d <= 3; d++) { // ê°€ë¡œ,ì„¸ë¡œ,ëŒ€ê°ì„ 
 			switch (d) {
-			case 1:// °¡·Î
+			case 1:// ê°€ë¡œ
 				if ((p == 1 || p == 3) && j + 1 <= n && arr[i][j + 1] == 0)
 					pipe(i, j + 1, 1);
 
 				break;
-			case 2:// ¼¼·Î
+			case 2:// ì„¸ë¡œ
 				if ((p == 2 || p == 3) && i + 1 <= n && arr[i + 1][j] == 0)
 					pipe(i + 1, j, 2);
 
 				break;
-			case 3:// ´ë°¢¼±
+			case 3:// ëŒ€ê°ì„ 
 				if (i + 1 <= n && j + 1 <= n && 
 				arr[i + 1][j + 1] == 0 && arr[i+1][j]==0 && arr[i][j+1]==0) {
 					pipe(i + 1, j + 1, 3);
