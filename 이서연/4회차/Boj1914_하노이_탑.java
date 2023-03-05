@@ -3,8 +3,8 @@ package boj.s1;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.math.BigInteger;
 
-// 시간초과
 public class Boj1914_하노이_탑 {
 	static int N;
 	static StringBuilder sb;
@@ -15,8 +15,14 @@ public class Boj1914_하노이_탑 {
 		N = Integer.parseInt(br.readLine());
 		sb = new StringBuilder();
 
-		sb.append((int) Math.pow(2, N) - 1).append("\n");
-		hanoi(N, 1, 2, 3);
+		BigInteger bigNum = new BigInteger("2");
+		bigNum = bigNum.pow(N);
+		bigNum = bigNum.subtract(new BigInteger("1"));
+
+		sb.append(bigNum).append("\n");
+
+		if (N <= 20)
+			hanoi(N, 1, 2, 3);
 
 		System.out.println(sb.toString());
 	}
@@ -26,8 +32,7 @@ public class Boj1914_하노이_탑 {
 			return;
 
 		hanoi(cnt - 1, from, to, temp);
-		if (N <= 20)
-			sb.append(from).append(" ").append(to).append("\n");
+		sb.append(from).append(" ").append(to).append("\n");
 		hanoi(cnt - 1, temp, from, to);
 	}
 }
