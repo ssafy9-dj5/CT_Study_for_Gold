@@ -1,0 +1,33 @@
+package boj.s1;
+
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+
+// 시간초과
+public class Boj1914_하노이_탑 {
+	static int N;
+	static StringBuilder sb;
+
+	public static void main(String[] args) throws NumberFormatException, IOException {
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+
+		N = Integer.parseInt(br.readLine());
+		sb = new StringBuilder();
+
+		sb.append((int) Math.pow(2, N) - 1).append("\n");
+		hanoi(N, 1, 2, 3);
+
+		System.out.println(sb.toString());
+	}
+
+	private static void hanoi(int cnt, int from, int temp, int to) {
+		if (cnt == 0)
+			return;
+
+		hanoi(cnt - 1, from, to, temp);
+		if (N <= 20)
+			sb.append(from).append(" ").append(to).append("\n");
+		hanoi(cnt - 1, temp, from, to);
+	}
+}
