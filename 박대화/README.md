@@ -22,3 +22,9 @@
 - [하노이 탑](https://velog.io/@mantaray/%EB%B0%B1%EC%A4%80-java-%ED%95%98%EB%85%B8%EC%9D%B4-%ED%83%91-1914)
 - [파이프 옮기기 1](https://velog.io/@mantaray/%EB%B0%B1%EC%A4%80-java-%ED%8C%8C%EC%9D%B4%ED%94%84-%EC%98%AE%EA%B8%B0%EA%B8%B0-1-17070)
 - [연구소](https://velog.io/@mantaray/%EB%B0%B1%EC%A4%80-java-%EC%97%B0%EA%B5%AC%EC%86%8C-14502)
+
+## [5회차 (23.03.06 ~ 23.03.12)](https://github.com/ssafy9-dj5/CT_Study_for_Gold/pull/27)
+- [집합의 표현](https://velog.io/@mantaray/%EB%B0%B1%EC%A4%80-java-%EC%A7%91%ED%95%A9%EC%9D%98-%ED%91%9C%ED%98%84-1717)
+- [최소비용 구하기](https://velog.io/@mantaray/%EB%B0%B1%EC%A4%80-java-%EC%B5%9C%EC%86%8C%EB%B9%84%EC%9A%A9-%EA%B5%AC%ED%95%98%EA%B8%B0-1916)
+- [뱀과 사다리 게임](https://velog.io/@mantaray/%EB%B0%B1%EC%A4%80-java-%EB%B1%80%EA%B3%BC-%EC%82%AC%EB%8B%A4%EB%A6%AC-%EA%B2%8C%EC%9E%84-16928)
+- [낚시왕](https://velog.io/@mantaray/%EB%B0%B1%EC%A4%80-java-%EB%82%9A%EC%8B%9C%EC%99%95-17143)
