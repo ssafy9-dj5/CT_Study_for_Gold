@@ -19,7 +19,7 @@ public class Main5430AC {
 			int n = Integer.parseInt(br.readLine());
 			s = 0;
 			e = n - 1;
-			cntr = 0; /태뒤집은 상태
+			cntr = 0; //뒤집은 상태
 			arr = new int[n];
 			StringTokenizer st = new StringTokenizer(br.readLine(), "[|,|]");
 			for (int i = 0; i < n; i++) {
