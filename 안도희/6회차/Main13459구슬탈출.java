@@ -7,7 +7,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class Main13459±¸½½Å»Ãâ {
+public class Main13459êµ¬ìŠ¬íƒˆì¶œ {
 	static class Ball {
 		int ri, rj, bi, bj;
 
@@ -35,16 +35,16 @@ public class Main13459±¸½½Å»Ãâ {
 
 		int ri = 0, rj = 0, bi = 0, bj = 0;
 
-		for (int i = 0; i < n; i++) {// º¸µå ÀÔ·Â ¹Þ±â
+		for (int i = 0; i < n; i++) {// ë³´ë“œ ìž…ë ¥ ë°›ê¸°
 			String s = br.readLine();
 			for (int j = 0; j < m; j++) {
 				arr[i][j] = s.charAt(j);
-				if (arr[i][j] == 'R') {// »¡°£°ø À§Ä¡
+				if (arr[i][j] == 'R') {// ë¹¨ê°„ê³µ ìœ„ì¹˜
 					ri = i;
 					rj = j;
 					arr[i][j] = '.';
 				}
-				if (arr[i][j] == 'B') {// ÆÄ¶õ °ø À§Ä¡
+				if (arr[i][j] == 'B') {// íŒŒëž€ ê³µ ìœ„ì¹˜
 					bi = i;
 					bj = j;
 					arr[i][j] = '.';
@@ -73,14 +73,14 @@ public class Main13459±¸½½Å»Ãâ {
 					int bi = now.bi;
 					int bj = now.bj;
 
-					// »¡°£°ø
+					// ë¹¨ê°„ê³µ
 					int nexti = ri + di[d];
 					int nextj = rj + dj[d];
 					while (true) {
 						if (arr[nexti][nextj] == '#') {
 							break;
 						}
-						if (arr[nexti][nextj] == 'O') {// »¡°£°øÀÌ ±¸¸Û¿¡ µé¾î°¬´Ù!
+						if (arr[nexti][nextj] == 'O') {// ë¹¨ê°„ê³µì´ êµ¬ë©ì— ë“¤ì–´ê°”ë‹¤!
 							ri = nexti;
 							rj = nextj;
 							break;
@@ -91,7 +91,7 @@ public class Main13459±¸½½Å»Ãâ {
 						nextj += dj[d];
 					}
 
-					// ÆÄ¶õ°ø
+					// íŒŒëž€ê³µ
 					nexti = now.bi + di[d];
 					nextj = now.bj + dj[d];
 					while (true) {
@@ -109,13 +109,13 @@ public class Main13459±¸½½Å»Ãâ {
 						nextj += dj[d];
 					}
 
-					// »¡, ÆÄ ÀÚ¸® ÀÌµ¿ ¿Ï·á
+					// ë¹¨, íŒŒ ìžë¦¬ ì´ë™ ì™„ë£Œ
 					if (ri == bi && rj == bj) {
 						if (arr[ri][rj] == 'O') {
 
-							continue;// »¡,ÆÄ µÑ´Ù ±¸¸ÛÀ¸·Î!
+							continue;// ë¹¨,íŒŒ ë‘˜ë‹¤ êµ¬ë©ìœ¼ë¡œ
 						}
-						//°ø ³¡±îÁö ÀÌµ¿ÇßÀ»¶§  À§Ä¡°¡ °°À¸¸é  Á¶Á¤ÇØÁÖ±â
+						//ê³µ ëê¹Œì§€ ì´ë™í–ˆì„ë•Œ  ìœ„ì¹˜ê°€ ê°™ìœ¼ë©´  ì¡°ì •í•´ì£¼ê¸°
 						if (now.ri != now.bi) {
 							if (Math.abs(ri - now.ri) < Math.abs(bi - now.bi)) {
 								bi -= di[d];
@@ -136,7 +136,7 @@ public class Main13459±¸½½Å»Ãâ {
 					if (arr[bi][bj] == 'O')
 						continue;
 					if (arr[ri][rj] == 'O')
-						return 1;// »¡°£°ø¸¸ ±¸¸ÛÀ¸·Î !!
+						return 1;// ë¹¨ê°„ê³µë§Œ êµ¬ë©ìœ¼ë¡œ !!
 
 
 					queue.add(new Ball(ri, rj, bi, bj));
