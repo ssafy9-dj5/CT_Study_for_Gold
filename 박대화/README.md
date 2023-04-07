@@ -28,3 +28,8 @@
 - [최소비용 구하기](https://velog.io/@mantaray/%EB%B0%B1%EC%A4%80-java-%EC%B5%9C%EC%86%8C%EB%B9%84%EC%9A%A9-%EA%B5%AC%ED%95%98%EA%B8%B0-1916)
 - [뱀과 사다리 게임](https://velog.io/@mantaray/%EB%B0%B1%EC%A4%80-java-%EB%B1%80%EA%B3%BC-%EC%82%AC%EB%8B%A4%EB%A6%AC-%EA%B2%8C%EC%9E%84-16928)
 - [낚시왕](https://velog.io/@mantaray/%EB%B0%B1%EC%A4%80-java-%EB%82%9A%EC%8B%9C%EC%99%95-17143)
+
+## [7회차 (23.03.27 ~ 23.04.02)](https://github.com/ssafy9-dj5/CT_Study_for_Gold/pull/38)
+- [동전 1](https://velog.io/@mantaray/%EB%B0%B1%EC%A4%80-java-%EB%8F%99%EC%A0%84-1-2293)
+- [보물섬](https://velog.io/@mantaray/%EB%B0%B1%EC%A4%80-java-%EB%B3%B4%EB%AC%BC%EC%84%AC-2589)
+- [부분합](https://velog.io/@mantaray/%EB%B0%B1%EC%A4%80-java-%EB%B6%80%EB%B6%84%ED%95%A9-1806)
