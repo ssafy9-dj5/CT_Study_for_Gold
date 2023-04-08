@@ -21,18 +21,18 @@ public class Boj_10942_팰린드롬 {
 		int[][] dp = new int[n + 1][n + 1];
 
 		for (int i = 1; i <= n; i++) {
-			dp[i][i] = 1;
+			dp[i][i] = 1; // 길이 1인 경우
 			if (i < n) {
-				if (num[i] == num[i + 1]) {
+				if (num[i] == num[i + 1]) { // 길이 2인 경우
 					dp[i][i + 1] = 1;
 				}
 			}
 		}
 
-		for (int j = 2; j < n; j++) {
-			for (int i = 1; i <= n-j; i++) {
-				if (dp[i + 1][i + j - 1] == 1 && num[i] == num[i+j]) {
-					dp[i][i+j] = 1;
+		for (int j = 2; j < n; j++) { // 길이 3 이상의 경우
+			for (int i = 1; i <= n - j; i++) {
+				if (dp[i + 1][i + j - 1] == 1 && num[i] == num[i + j]) {
+					dp[i][i + j] = 1;
 				}
 			}
 		}

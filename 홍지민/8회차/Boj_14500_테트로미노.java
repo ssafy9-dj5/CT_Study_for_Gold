@@ -40,7 +40,7 @@ public class Boj_14500_테트로미노 {
 
 	}
 
-	static void block(int i, int j) {
+	static void block(int i, int j) { // ㅗ 모양 경우
 		// 상 
 		if (i > 0 && j < m - 2)
 			ans = Math.max(ans, map[i][j] + map[i][j + 1] + map[i][j + 2] + map[i - 1][j + 1]);
@@ -55,7 +55,7 @@ public class Boj_14500_테트로미노 {
             ans = Math.max(ans, map[i][j] + map[i + 1][j] + map[i + 2][j] + map[i + 1][j + 1]);
     }
 
-	private static void dfs(int i, int j, int cnt, int sum) {
+	private static void dfs(int i, int j, int cnt, int sum) { // ㅗ 제외 나머지 모양
 		if (cnt == 4) {
 			if (sum > ans)
 				ans = sum;
