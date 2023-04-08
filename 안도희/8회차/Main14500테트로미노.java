@@ -5,11 +5,11 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class Main14500Å×Æ®·Î¹Ì³ë {
+public class Main14500í…ŒíŠ¸ë¡œë¯¸ë…¸ {
 	static int[] di = { -1, 0, 1 };
 	static int[] dj = { 0, 1, 0 };
 	static int n, m, max;
-	static int[][] visited;
+	static boolean[][] visited;
 	static int[][] arr;
 	static int cm1, cm2;
 
@@ -19,9 +19,9 @@ public class Main14500Å×Æ®·Î¹Ì³ë {
 		n = Integer.parseInt(st.nextToken());
 		m = Integer.parseInt(st.nextToken());
 		arr = new int[n][m];
-		visited = new int[n][m];
+		visited = new boolean[n][m];
 
-		max = 0;// ÇÕÀÇ ÃÖ´ë°ª ±¸ÇÏ±â
+		max = 0;// í•©ì˜ ìµœëŒ€ê°’ êµ¬í•˜ê¸°
 
 		for (int i = 0; i < n; i++) {
 			st = new StringTokenizer(br.readLine());
@@ -32,10 +32,10 @@ public class Main14500Å×Æ®·Î¹Ì³ë {
 		}
 		for (int i = 0; i < n; i++) {
 			for (int j = 0; j < m; j++) {
-				//visited = new int[n][m]; ÀÌ·¸°Ô ÇÏ¸é ½Ã°£ÃÊ°ú/ dfsÇÏ°í ³ª¿À¸é¼­ ¹æ¹®Ã¼Å© Ãë¼Ò
-				visited[i][j] = 5;
+				//visited = new int[n][m]; ì´ë ‡ê²Œ í•˜ë©´ ì‹œê°„ì´ˆê³¼/ dfsí•˜ê³  ë‚˜ì˜¤ë©´ì„œ ë°©ë¬¸ì²´í¬ ì·¨ì†Œ
+				visited[i][j] = true;
 				dfs(i, j, 1, arr[i][j]);
-				visited[i][j] = 0;
+				visited[i][j] = false;
 			}
 		}
 		System.out.println(max);
@@ -43,16 +43,17 @@ public class Main14500Å×Æ®·Î¹Ì³ë {
 
 	private static void dfs(int i, int j, int cnt, int sum) {
 
-		if (cnt == 4) {
+		if (cnt == 4) {//dfsë¡œ ì—°ê²°ëœ í…ŒíŠ¸ë¡œë¯¸ë…¸
 			max = Math.max(max, sum);
 			return;
 		}
-		for (int d = 0; d < 3; d++) {
+		
+		for (int d = 0; d < 3; d++) {//ì™¼ìª½ ë¶€ë¶„ì€ ê²¹ì³
 			int nexti = i + di[d];
 			int nextj = j + dj[d];
 
-			if (nexti >= 0 && nexti < n && nextj >= 0 && nextj < m && visited[nexti][nextj] == 0) {// ¹üÀ§¾È¿¡
-				if (cnt == 2) {//¤¿,¤Ã,¤Ç,¤Ì
+			if (nexti >= 0 && nexti < n && nextj >= 0 && nextj < m && !visited[nexti][nextj]) {// ë²”ìœ„ì•ˆì—
+				if (cnt == 2) {//ã…,ã…“,ã…—,ã…œ í…ŒíŠ¸ë¡œë¯¸ë…¸
 					if (Math.min(cm1, cm2) < arr[nexti][nextj]) {
 						if (cm1 > cm2)
 							cm2 = arr[nexti][nextj];
@@ -60,9 +61,9 @@ public class Main14500Å×Æ®·Î¹Ì³ë {
 							cm1 = arr[nexti][nextj];
 					}
 				}
-				visited[nexti][nextj] = cnt;
+				visited[nexti][nextj] = true;
 				dfs(nexti, nextj, cnt + 1, sum + arr[nexti][nextj]);
-				visited[nexti][nextj]=0;
+				visited[nexti][nextj]=false;
 			}
 		}
 		if (cnt == 2) {
