@@ -36,18 +36,15 @@ public class Main1520내리막길 {
 
 	private static int dfs(int i, int j) {
 
-		int current = 0;
 		if (i == m - 1 && j == n - 1) { 
 			cnt++;
 			check[i][j] = 1;
 			return check[i][j]; 
 		}
-
 		for (int d = 0; d < 4; d++) {
 			int nexti = i + di[d];
 			int nextj = j + dj[d];
-
-
+			
 			if (nexti >= 0 && nextj >= 0 && nexti < m && nextj < n && !visited[nexti][nextj]) {
 
 				if (arr[nexti][nextj] < arr[i][j]) {
@@ -59,8 +56,8 @@ public class Main1520내리막길 {
 						continue;
 
 					visited[i][j] = true;
-					if(dfs(nexti, nextj)==1)
-						check[i][j] += 1;
+					if(dfs(nexti, nextj)>=1)
+						check[i][j] += check[nexti][nextj];
 					visited[i][j] = false;
 
 				}
@@ -69,7 +66,15 @@ public class Main1520내리막길 {
 
 		if (check[i][j] == 0)
 			check[i][j] = -1;
-
+		
+//		for (int p = 0; p < m; p++) {
+//			for (int q = 0; q < n; q++)
+//				System.out.print(check[p][q] + " ");
+//			System.out.println();
+//		}
+//		System.out.println("____________________________");
+		
+		
 		return check[i][j];
 	}
 
