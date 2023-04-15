@@ -1,3 +1,5 @@
+//í•´ê²° ëª»í–ˆìŒ 
+
 package week9;
 
 import java.io.BufferedReader;
@@ -6,7 +8,7 @@ import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
-public class Main1520³»¸®¸·±æ {
+public class Main1520ë‚´ë¦¬ë§‰ê¸¸ {
 	static int[] di = { -1, 0, 1, 0 };
 	static int[] dj = { 0, 1, 0, -1 };
 	static int m, n, cnt;
@@ -30,7 +32,7 @@ public class Main1520³»¸®¸·±æ {
 			}
 		}
 
-		dfs(0, 0);//0,0¿¡¼­ ½ÃÀÛ
+		dfs(0, 0);//0,0ì—ì„œ ì‹œìž‘
 		System.out.println(cnt);
 	}
 
@@ -51,11 +53,11 @@ public class Main1520³»¸®¸·±æ {
 			if (nexti >= 0 && nextj >= 0 && nexti < m && nextj < n && !visited[nexti][nextj]) {
 
 				if (arr[nexti][nextj] < arr[i][j]) {
-					if (check[nexti][nextj] >= 1) { // °¡´É
+					if (check[nexti][nextj] >= 1) { // ê°€ëŠ¥
 						cnt+=check[nexti][nextj];
 						check[i][j] +=check[nexti][nextj];
 						continue;
-					} else if (check[nexti][nextj] == -1) // ºÒ°¡´É
+					} else if (check[nexti][nextj] == -1) // ë¶ˆê°€ëŠ¥
 						continue;
 
 					visited[i][j] = true;
