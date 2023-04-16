@@ -7,7 +7,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class Main17836°øÁÖ´ÔÀ»±¸ÇØ¶ó {
+public class Main17836ê³µì£¼ë‹˜ì„êµ¬í•´ë¼ {
 
 	static class hero {
 		int i, j;
@@ -66,16 +66,16 @@ public class Main17836°øÁÖ´ÔÀ»±¸ÇØ¶ó {
 				for (int d = 0; d < 4; d++) {
 					int nexti = now.i + di[d];
 					int nextj = now.j + dj[d];
-					if (nexti == n && nextj == m) {// °øÁÖ
+					if (nexti == n && nextj == m) {// ï¿½ï¿½ï¿½ï¿½
 						min = cnt;
 						return true;
 					}
 					if (nexti > 0 && nexti <= n && nextj > 0 && nextj <= m && !visited[nexti][nextj]) {
 
-						if (map[nexti][nextj] == 1) {// º®
+						if (map[nexti][nextj] == 1) {// ï¿½ï¿½
 							continue;
 
-						} else if (map[nexti][nextj] == 2) {// °Ë
+						} else if (map[nexti][nextj] == 2) {// ï¿½ï¿½
 							visited[nexti][nextj] = true;
 							if (cnt + (n - nexti) + (m - nextj) <= t)
 								min = cnt + (n - nexti) + (m - nextj);
