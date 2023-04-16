@@ -66,16 +66,16 @@ public class Main17836공주님을구해라 {
 				for (int d = 0; d < 4; d++) {
 					int nexti = now.i + di[d];
 					int nextj = now.j + dj[d];
-					if (nexti == n && nextj == m) {// ����
+					if (nexti == n && nextj == m) {//공주
 						min = cnt;
 						return true;
 					}
 					if (nexti > 0 && nexti <= n && nextj > 0 && nextj <= m && !visited[nexti][nextj]) {
 
-						if (map[nexti][nextj] == 1) {// ��
+						if (map[nexti][nextj] == 1) {// 벽
 							continue;
 
-						} else if (map[nexti][nextj] == 2) {// ��
+						} else if (map[nexti][nextj] == 2) {// 
 							visited[nexti][nextj] = true;
 							if (cnt + (n - nexti) + (m - nextj) <= t)
 								min = cnt + (n - nexti) + (m - nextj);
