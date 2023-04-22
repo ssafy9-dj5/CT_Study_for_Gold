@@ -41,7 +41,7 @@ class Solution2 {
                 if(users[i][0]>dis[j])//안사!
                     continue;
              
-				p = (int)(p+ (emoticons[j] * (1 - (0.01) * dis[j])));// 정답
+		p = (int)(p+ (emoticons[j] * (1 - (0.01) * dis[j])));// 정답
                 //p=p+(int)(emoticons[j] * (1 - (0.01) * dis[j]));//13,15,18오답 
                 if(p>=users[i][1]){
                     cnt++;//가입
