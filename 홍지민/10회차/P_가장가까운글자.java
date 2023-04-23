@@ -1,6 +1,6 @@
 package day0423;
 
-class Solution {
+class P_가장가까운글자 {
     public int[] solution(String s) {
         int[] answer = new int[s.length()];
         boolean[] exist = new boolean[26];
