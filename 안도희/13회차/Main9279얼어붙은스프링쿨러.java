@@ -4,7 +4,7 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.StringTokenizer;
-
+//메모리 초과
 public class Main9279얼어붙은스프링쿨러 {
 	static boolean[] visited;
 	static List<Integer>[] tree;
